@@ -2,7 +2,7 @@
 :label:`sec_anchor`
 
 
-Object detection algorithms usually
+Object detection algorithms usually23234
 sample a large number of regions in the input image, determine whether these regions contain
 objects of interest, and adjust the boundaries
 of the regions so as to predict the
